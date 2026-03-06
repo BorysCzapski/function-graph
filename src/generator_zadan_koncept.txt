@@ -1,0 +1,9 @@
+Zadania, w których pojawia sie ta funkcja (albo w postaci podanej przez użytkownika, albo z jednym z parametrów jako niewiadoma)
+Przykładowe zadania:
+-Punkt A znajduje się na wykresie funkcji f(x) = 2mx -14m. Oblicz m i podaj wzór funkcji f (odpowiedzią jest funkcja podana przez użytkownika).
+
+-Dla jakich wartości parametru m funkcja (4m-3)x^2+7mx+8m ma tylko jedno rozwiązanie? (gdy 4m-3=0, powstaje funkcja podana przez użytkownika).
+
+-Określ monotoniczność funkcji [tu wzór funkcji podanej przez użytkownika]
+
+Na początek możemy generować te same zadania dla każdej funkcji, potem ewentualnie będzie możliwość generowania określonego rodzaju zadania (jako ż odpowiedzią jest funkcja podana przez użytkownika lub jej właściwość, ten generator jest zaprojektowany dla nauczycieli, a nie uczniów).
